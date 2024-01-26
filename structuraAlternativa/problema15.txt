@@ -1,0 +1,6 @@
+citeste a,b,c,d
+
+daca a != b and b != c and c != d and a != c and a != d and b != d atunci
+	scrie 'a, b, c si d pot forma o multime'
+altfel
+	scrie 'a, b, c si d nu pot forma o multime'
