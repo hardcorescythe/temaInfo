@@ -1,0 +1,3 @@
+citeste a,b
+
+scrie a*b mod 100 / 10 , a*b mod 10
