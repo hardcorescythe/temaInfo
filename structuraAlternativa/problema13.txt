@@ -1,0 +1,8 @@
+citeste n
+
+t <- (n mod 10 * 10) + (n mod 100 - n mod 10) / 10
+
+daca t == (n // 100) atunci:
+	scrie "numarul este palindrom"
+altfel
+	scrie "numarul nu este palindrom"
