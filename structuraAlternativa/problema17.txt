@@ -1,0 +1,9 @@
+citeste x
+
+daca x <= -3 atunci
+	scrie x^2 + 1
+altfel
+	daca x > -3 and x < 3 atunci
+		scrie x - 2
+	altfel
+		scrie x^2 - 4*x + 5
